@@ -4,7 +4,7 @@ package Docente
 import "fmt"
 import Persona "github.com/Morty-debug/POO/Persona"
 
-// inicializacion de packetes
+// inicializacion de packete
 func init() {
 	fmt.Println("Packete Docente Inicializado")
 }
