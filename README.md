@@ -1,2 +1,11 @@
-# POO
-Programacion Orientada a Objetos
+
+### compilar
+```batch
+go build
+```
+
+
+### ejecutar
+```batch
+POO.exe
+```
