@@ -12,10 +12,10 @@ func main() {
 	Profe1.SetNombre2("Antonio")
 	Profe1.SetApellido1("Valladares")
 	Profe1.SetApellido2("Renderos")
-    Profe1.SetCarnet("VR201104")
+	Profe1.SetCarnet("VR201104")
 	//obtenemos datos
-    fmt.Println("\tEdad:",Profe1.GetEdad())
-    fmt.Println("\tNombre:",Profe1.GetNombre1(),Profe1.GetNombre2())
-    fmt.Println("\tApellido:",Profe1.GetApellido1(),Profe1.GetApellido2())
+	fmt.Println("\tEdad:",Profe1.GetEdad())
+	fmt.Println("\tNombre:",Profe1.GetNombre1(),Profe1.GetNombre2())
+	fmt.Println("\tApellido:",Profe1.GetApellido1(),Profe1.GetApellido2())
 	fmt.Println("\tCarnet:",Profe1.GetCarnet())
 }
